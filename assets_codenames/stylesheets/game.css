@@ -151,7 +151,7 @@
 
 .codemaster .red.hidden-word { color: #D13030; }
 .codemaster .blue.hidden-word { color: #4183CC; }
-.codemaster .black.hidden-word { background: #CCC; }
+.codemaster .black.hidden-word { background: #000000; }
 .codemaster .cell { font-weight: bold; }
 
 .board .red.revealed { background: #D13030; color: #FFF; }
