@@ -1,5 +1,5 @@
 #game-view {
-    width: 700px;
+    width: 950px;
     margin: 0 auto;
 }
 
@@ -27,7 +27,6 @@
 }
 
 #remaining { float: left; }
-#remaining .red-remaining { color: #D13030; }
 #remaining .blue-remaining { color: #4183CC; }
 
 #button-line {
@@ -103,7 +102,7 @@
 .board .neutral.revealed { background: #888; }
 
 .cell {
-    width: 130px;
+    width: 180px;
     height: 130px;
     box-sizing: border-box;
     margin: 5px;
