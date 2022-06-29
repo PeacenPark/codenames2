@@ -100,7 +100,7 @@
 
 .player .board .hidden-word { cursor: pointer; }
 
-.board .neutral.revealed { background: #000000; }
+.board .neutral.revealed { background: #888; }
 
 .cell {
     width: 130px;
@@ -139,7 +139,7 @@
     }
 }
 
-.board .imgcell.revealed { opacity: .2; }
+.board .imgcell.revealed { opacity: .1; }
 
 .overlay {
     position: absolute;
